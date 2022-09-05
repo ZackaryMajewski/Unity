@@ -1,4 +1,4 @@
-<h1>2-D Game</h1>
+<h1>3-D Games</h1>
 
 
 <h2>Description</h2>
@@ -8,26 +8,25 @@ Need to update.
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Gamemaker Studio 2</b> 
+- <b>Unity Engine</b> 
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
 
-<h2>Models:</h2>
+<h2>Projects:</h2>
 
 <p align="center">
-Main Menu: <br />
-<img src="https://i.imgur.com/3EN6wCr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+AI moving towards a moving location: <br />
+<img src="https://i.imgur.com/q3sYUP3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Start of level: <br />
-<img src="https://i.imgur.com/WI5cKcj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9ORp63y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Enemies: <br />
-<img src="https://i.imgur.com/WwxnHCi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Coins: <br />
+<img src="https://i.imgur.com/xf45KWj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Treasure: <br />
-<img src="https://i.imgur.com/zcHXE4u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Firework Celebration: <br />
+<img src="https://i.imgur.com/PcGIakl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 </p>
