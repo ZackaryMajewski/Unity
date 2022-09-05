@@ -1,8 +1,8 @@
-<h1>3-D Games</h1>
+<h1>3-D Games Unity</h1>
 
 
 <h2>Description</h2>
-Need to update.
+These projects demonstrate my capabilities of having an AI go to different locations around the map along with the player being able to pick items up and an event will happen around the map. 
 <br />
 
 
